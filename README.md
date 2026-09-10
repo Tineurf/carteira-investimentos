@@ -23,7 +23,10 @@ Construir um simulador de carteira de investimentos que compara o desempenho his
 - Máximo drawdown
 
 ## Estrutura do projeto
-
+notebooks/    # exploração inicial e prototipagem
+src/          # funções reutilizáveis (cálculo de retorno, Sharpe, etc.)
+requirements.txt
+README.md
 
 ## Limitações / simplificações assumidas
 - Não considera custos de transação nem impostos.
